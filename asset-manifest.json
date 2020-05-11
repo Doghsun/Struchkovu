@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Struchkovu/static/css/main.5865fbaf.chunk.css",
+    "main.js": "/Struchkovu/static/js/main.6057dc98.chunk.js",
+    "main.js.map": "/Struchkovu/static/js/main.6057dc98.chunk.js.map",
+    "runtime-main.js": "/Struchkovu/static/js/runtime-main.4e82d79d.js",
+    "runtime-main.js.map": "/Struchkovu/static/js/runtime-main.4e82d79d.js.map",
+    "static/js/2.f6534ff3.chunk.js": "/Struchkovu/static/js/2.f6534ff3.chunk.js",
+    "static/js/2.f6534ff3.chunk.js.map": "/Struchkovu/static/js/2.f6534ff3.chunk.js.map",
+    "index.html": "/Struchkovu/index.html",
+    "precache-manifest.4fc54b06b7be90a88544af39f9c18a0c.js": "/Struchkovu/precache-manifest.4fc54b06b7be90a88544af39f9c18a0c.js",
+    "service-worker.js": "/Struchkovu/service-worker.js",
+    "static/css/main.5865fbaf.chunk.css.map": "/Struchkovu/static/css/main.5865fbaf.chunk.css.map",
+    "static/js/2.f6534ff3.chunk.js.LICENSE.txt": "/Struchkovu/static/js/2.f6534ff3.chunk.js.LICENSE.txt",
+    "static/media/Ctruchkova_Varvara.png": "/Struchkovu/static/media/Ctruchkova_Varvara.46fa5d44.png",
+    "static/media/Cutar.png": "/Struchkovu/static/media/Cutar.f6449a2a.png",
+    "static/media/Danil.png": "/Struchkovu/static/media/Danil.eda2281b.png",
+    "static/media/Luka.png": "/Struchkovu/static/media/Luka.27f10168.png",
+    "static/media/Maria_Gadril.png": "/Struchkovu/static/media/Maria_Gadril.4388335f.png",
+    "static/media/N_MarkovI.png": "/Struchkovu/static/media/N_MarkovI.df98fd2c.png",
+    "static/media/Vladimir_Gavril.png": "/Struchkovu/static/media/Vladimir_Gavril.e4ae03bf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e82d79d.js",
+    "static/js/2.f6534ff3.chunk.js",
+    "static/css/main.5865fbaf.chunk.css",
+    "static/js/main.6057dc98.chunk.js"
+  ]
+}
